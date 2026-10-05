@@ -1,0 +1,65 @@
+LIBRERIA DE JUEGOS
+    ===============
+    Cantidad de juegos: 6
+    
+            N° de Juego: 1
+                    Título: Catan
+                    Estudio: Kosmos / Devir
+                    Año: 1995
+                    Disponible: Disponible
+                    Jugadores Maximos y minimos: 4 - 3
+                    Categorias: Clasico, Estrategia, Conquista, Comercio
+
+                    ============================
+                    
+        N° de Juego: 2
+                    Título: Carcassonne
+                    Estudio: Hans im Glück / Devir
+                    Año: 2000
+                    Disponible: No disponible
+                    Jugadores Maximos y minimos: 5 - 2
+                    Categorias: Estrategia, Paisaje
+
+                    ============================
+                    
+        N° de Juego: 3
+                    Título: Aventureros al Tren!
+                    Estudio: Days of Wonder / Asmodee
+                    Año: 2004
+                    Disponible: No disponible
+                    Jugadores Maximos y minimos: 5 - 2
+                    Categorias: Familia, Estrategia, Gestion
+
+                    ============================
+                    
+        N° de Juego: 4
+                    Título: Risk
+                    Estudio: Hasbro
+                    Año: 1959
+                    Disponible: Disponible
+                    Jugadores Maximos y minimos: 6 - 2
+                    Categorias: Militar, Estrategia, Conquista
+
+                    ============================
+                    
+        N° de Juego: 5
+                    Título: Gloomhaven
+                    Estudio: Cephalofair Games
+                    Año: 2017
+                    Disponible: Disponible
+                    Jugadores Maximos y minimos: 4 - 1
+                    Categorias: Mazmorras
+
+                    ============================
+                    
+        N° de Juego: 6
+                    Título: Dixit
+                    Estudio: Libellud / Asmodee
+                    Año: 2008
+                    Disponible: No disponible
+                    Jugadores Maximos y minimos: 6 - 3
+                    Categorias: Deduccion, Imaginacion, Cartas
+
+                    ============================
+                    
+    

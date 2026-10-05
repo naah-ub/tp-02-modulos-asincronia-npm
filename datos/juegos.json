@@ -1,0 +1,56 @@
+[
+    {
+        "titulo": "Catan",
+        "editorial": "Kosmos / Devir",
+        "anio": 1995,
+        "jugadoresMax": 4,
+        "jugadoresMin": 3,
+        "categorias": ["Clasico", "Estrategia", "Conquista", "Comercio"],
+        "disponible": true
+    },
+    {
+        "titulo": "Carcassonne",
+        "editorial": "Hans im Glück / Devir",
+        "anio": 2000,
+        "jugadoresMax": 5,
+        "jugadoresMin": 2,
+        "categorias": ["Estrategia", "Paisaje"],
+        "disponible": false
+    },
+    {
+        "titulo": "Aventureros al Tren!",
+        "editorial": "Days of Wonder / Asmodee",
+        "anio": 2004,
+        "jugadoresMax": 5,
+        "jugadoresMin": 2,
+        "categorias": ["Familia", "Estrategia", "Gestion"],
+        "disponible": false
+    },
+    {
+        "titulo": "Risk",
+        "editorial": "Hasbro",
+        "anio": 1959,
+        "jugadoresMax": 6,
+        "jugadoresMin": 2,
+        "categorias": ["Militar", "Estrategia", "Conquista"],
+        "disponible": true
+    },
+    {
+        "titulo": "Gloomhaven",
+        "editorial": "Cephalofair Games",
+        "anio": 2017,
+        "jugadoresMax": 4,
+        "jugadoresMin": 1,
+        "categorias": ["Mazmorras"],
+        "disponible": true
+    },
+    {
+        "titulo": "Dixit",
+        "editorial": "Libellud / Asmodee",
+        "anio": 2008,
+        "jugadoresMax": 6,
+        "jugadoresMin": 3,
+        "categorias": ["Deduccion", "Imaginacion", "Cartas"],
+        "disponible": false
+    }
+]

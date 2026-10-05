@@ -1,0 +1,19 @@
+{
+  "name": "tp-02-modulos-asincronia-npm",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "check": "node --check src/index.js && node --check src/archivos.js && node --check src/juegos.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {}
+}
